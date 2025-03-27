@@ -1,1 +1,1 @@
-# repository
+# modo de uso:
